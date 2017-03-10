@@ -1,0 +1,1079 @@
+fileFormatVersion: 2
+guid: 796bd0a5489f25246897f011647b7108
+timeCreated: 1453256813
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: KickEffect00
+    21300002: KickEffect01
+    21300004: KickEffect02
+    21300006: KickEffect03
+    21300008: clawEffect00
+    21300010: clawEffect01
+    21300012: clawEffect02
+    21300014: clawEffect03
+    21300016: shockEffect00
+    21300018: shockEffect01
+    21300020: shockEffect02
+    21300022: shockEffect03
+    21300024: shockEffect04
+    21300026: waveEffect00
+    21300028: waveEffect01
+    21300030: waveEffect02
+    21300032: waveEffect03
+    21300034: bossHitEffect00
+    21300036: bossHitEffect01
+    21300038: bossHitEffect02
+    21300040: bossHitEffect03
+    21300042: bossHitEffect04
+    21300044: bossHitEffect05
+    21300046: bossHitEffect06
+    21300048: bossHitEffect07
+    21300050: hitEffect00
+    21300052: hitEffect01
+    21300054: hitEffect02
+    21300056: hitEffect03
+    21300058: hitEffect04
+    21300060: hitEffect05
+    21300062: hitEffect06
+    21300064: overBall_001
+    21300066: overBall_002
+    21300068: overBall_003
+    21300070: overBall_004
+    21300072: overBall_005
+    21300074: rockBullet_001
+    21300076: rockBullet_002
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: KickEffect00
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 240
+        width: 154
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44, y: 24.5}
+        - {x: -77, y: -7.5}
+        - {x: -77, y: -24.5}
+        - {x: 74, y: -24.5}
+        - {x: 77, y: -19.5}
+        - {x: 77, y: 22.5}
+        - {x: 66, y: 24.5}
+    - name: KickEffect01
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 299
+        width: 117
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 37.5, y: 24}
+        - {x: -58.5, y: 24}
+        - {x: -58.5, y: -24}
+        - {x: 58.5, y: -24}
+        - {x: 58.5, y: 4}
+        - {x: 42.5, y: 22}
+    - name: KickEffect02
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 190
+        width: 132
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: -9}
+        - {x: 6, y: -13}
+        - {x: 6, y: -24}
+        - {x: 27, y: -24}
+        - {x: 27, y: -10}
+        - {x: 23, y: -9}
+      - - {x: 49, y: 7}
+        - {x: 32, y: -11}
+        - {x: 32, y: -21}
+        - {x: 34, y: -24}
+        - {x: 44, y: -24}
+        - {x: 66, y: -15}
+        - {x: 66, y: 2}
+        - {x: 57, y: 7}
+      - - {x: 7, y: 24}
+        - {x: -30, y: 24}
+        - {x: -32, y: 22}
+        - {x: -32, y: 8}
+        - {x: 23, y: -1}
+        - {x: 37, y: -1}
+        - {x: 43, y: 3}
+        - {x: 43, y: 11}
+        - {x: 37, y: 19}
+      - - {x: -65, y: 24}
+        - {x: -66, y: 23}
+        - {x: -66, y: 12}
+        - {x: -63, y: 11}
+        - {x: -61, y: 10}
+        - {x: -39, y: 10}
+        - {x: -36, y: 13}
+        - {x: -36, y: 20}
+        - {x: -38, y: 24}
+    - name: KickEffect03
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 82
+        width: 107
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bossHitEffect00
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 33
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 36}
+        - {x: -21, y: 36}
+        - {x: -34, y: 12}
+        - {x: -35, y: 10}
+        - {x: -35, y: -22}
+        - {x: -17, y: -43}
+        - {x: 39, y: -43}
+        - {x: 39, y: 28}
+        - {x: 37, y: 32}
+    - name: bossHitEffect01
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 38
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: 42}
+        - {x: -46, y: 36}
+        - {x: -46, y: 6}
+        - {x: -27, y: -1}
+        - {x: -21, y: -4}
+        - {x: -21, y: -3}
+        - {x: -23, y: -4}
+        - {x: -29, y: -9}
+        - {x: -29, y: -28}
+        - {x: -27, y: -37}
+        - {x: -21, y: -48}
+        - {x: 45, y: -48}
+        - {x: 46, y: -36}
+        - {x: 46, y: 35}
+        - {x: 45, y: 42}
+    - name: bossHitEffect02
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 13
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47, y: 48}
+        - {x: -48, y: 31}
+        - {x: -48, y: -19}
+        - {x: -47, y: -48}
+        - {x: 48, y: -48}
+        - {x: 48, y: 48}
+    - name: bossHitEffect03
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 13
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 48, y: -48}
+        - {x: 48, y: 24}
+        - {x: 40, y: 23}
+        - {x: 42, y: 23}
+        - {x: 48, y: 29}
+        - {x: 48, y: 42}
+        - {x: 44, y: 41}
+        - {x: 44, y: 48}
+        - {x: -48, y: 48}
+        - {x: -48, y: -48}
+        - {x: -32, y: -48}
+        - {x: -22, y: -39}
+        - {x: -16, y: -31}
+        - {x: -16, y: -48}
+    - name: bossHitEffect04
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 26
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48, y: 48}
+        - {x: -48, y: -37}
+        - {x: -42, y: -40}
+        - {x: -39, y: -39}
+        - {x: -41, y: -46}
+        - {x: -41, y: -48}
+        - {x: 48, y: -48}
+        - {x: 48, y: 48}
+    - name: bossHitEffect05
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 103
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31, y: 18}
+        - {x: 33, y: 19}
+        - {x: 35, y: 21}
+        - {x: 36, y: 21}
+        - {x: 43, y: 25}
+        - {x: 48, y: 30}
+        - {x: 48, y: 48}
+        - {x: -24, y: 48}
+        - {x: -19, y: 39}
+        - {x: -18, y: 39}
+        - {x: -18, y: 37}
+        - {x: -17, y: 35}
+        - {x: -18, y: 38}
+        - {x: -21, y: 43}
+        - {x: -25, y: 48}
+        - {x: -39, y: 48}
+        - {x: -48, y: 25}
+        - {x: -48, y: 12}
+        - {x: -47, y: 11}
+        - {x: -44, y: 10}
+        - {x: -42, y: 10}
+        - {x: -48, y: 10}
+        - {x: -48, y: 0}
+        - {x: -38, y: -3}
+        - {x: -48, y: -34}
+        - {x: -48, y: -48}
+        - {x: 48, y: -48}
+        - {x: 48, y: 27}
+        - {x: 35, y: 20}
+    - name: bossHitEffect06
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 103
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48, y: 48}
+        - {x: -48, y: -48}
+        - {x: 48, y: -48}
+        - {x: 48, y: 48}
+    - name: bossHitEffect07
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 201
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48, y: 48}
+        - {x: -48, y: 12}
+        - {x: -39, y: 9}
+        - {x: -37, y: 9}
+        - {x: -48, y: 9}
+        - {x: -48, y: -48}
+        - {x: 46, y: -48}
+        - {x: 48, y: -42}
+        - {x: 48, y: 48}
+    - name: clawEffect00
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 124
+        width: 89
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44.5, y: 19}
+        - {x: -44.5, y: -17}
+        - {x: -43.5, y: -19}
+        - {x: 42.5, y: -19}
+        - {x: 44.5, y: -17}
+        - {x: 44.5, y: 14}
+        - {x: 16.5, y: 19}
+    - name: clawEffect01
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 131
+        width: 117
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50.5, y: 28.5}
+        - {x: -58.5, y: 21.5}
+        - {x: -58.5, y: -16.5}
+        - {x: -24.5, y: -28.5}
+        - {x: 35.5, y: -28.5}
+        - {x: 58.5, y: -8.5}
+        - {x: 58.5, y: 21.5}
+        - {x: 29.5, y: 28.5}
+    - name: clawEffect02
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 63
+        width: 86
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: 19}
+        - {x: -43, y: 10}
+        - {x: -43, y: -19}
+        - {x: 43, y: -19}
+        - {x: 43, y: 6}
+        - {x: 20, y: 19}
+    - name: clawEffect03
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 10
+        width: 69
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hitEffect00
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 411
+        width: 64
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 63.5}
+        - {x: -32, y: 31.5}
+        - {x: -32, y: -46.5}
+        - {x: -15, y: -63.5}
+        - {x: 5, y: -63.5}
+        - {x: 32, y: -22.5}
+        - {x: 32, y: 57.5}
+        - {x: 27, y: 63.5}
+    - name: hitEffect01
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 349
+        width: 94
+        height: 189
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47, y: 94.5}
+        - {x: -47, y: -85.5}
+        - {x: -29, y: -94.5}
+        - {x: 47, y: -94.5}
+        - {x: 47, y: 70.5}
+        - {x: 9, y: 94.5}
+    - name: hitEffect02
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 183
+        width: 168
+        height: 355
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 80, y: 42.5}
+        - {x: 65, y: 42.5}
+        - {x: 67, y: 42.5}
+        - {x: 74, y: 45.5}
+        - {x: 84, y: 62.5}
+        - {x: 84, y: 67.5}
+        - {x: 69, y: 114.5}
+        - {x: 61, y: 112.5}
+        - {x: 69, y: 129.5}
+        - {x: 55, y: 177.5}
+        - {x: 30, y: 177.5}
+        - {x: -8, y: 131.5}
+        - {x: -10, y: 126.5}
+        - {x: -25, y: 162.5}
+        - {x: -33, y: 177.5}
+        - {x: -66, y: 177.5}
+        - {x: -84, y: 133.5}
+        - {x: -84, y: -157.5}
+        - {x: 43, y: -177.5}
+        - {x: 69, y: -177.5}
+        - {x: 76, y: -173.5}
+        - {x: 84, y: -152.5}
+        - {x: 84, y: 4.5}
+    - name: hitEffect03
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 149
+        width: 154
+        height: 389
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: -74.5}
+        - {x: 17, y: -72.5}
+        - {x: 31, y: -99.5}
+        - {x: 34, y: -99.5}
+        - {x: 35, y: -96.5}
+        - {x: 30, y: -76.5}
+        - {x: 77, y: -64.5}
+        - {x: 77, y: 169.5}
+        - {x: 39, y: 194.5}
+        - {x: -65, y: 194.5}
+        - {x: -77, y: 153.5}
+        - {x: -77, y: -73.5}
+        - {x: -38, y: -166.5}
+        - {x: 32, y: -194.5}
+        - {x: 51, y: -194.5}
+        - {x: 33, y: -128.5}
+        - {x: 21, y: -80.5}
+        - {x: 19, y: -80.5}
+    - name: hitEffect04
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 128
+        width: 168
+        height: 410
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: -70}
+        - {x: 13, y: -64}
+        - {x: 13, y: -60}
+        - {x: 11, y: -55}
+        - {x: 11, y: -56}
+        - {x: 14, y: -63}
+        - {x: 24, y: -83}
+        - {x: 31, y: -91}
+        - {x: 51, y: -102}
+        - {x: 84, y: -48}
+        - {x: 84, y: 79}
+        - {x: 75, y: 90}
+        - {x: 52, y: 155}
+        - {x: -25, y: 175}
+        - {x: -53, y: 205}
+        - {x: -67, y: 205}
+        - {x: -84, y: 158}
+        - {x: -84, y: -65}
+        - {x: -75, y: -62}
+        - {x: -63, y: -109}
+        - {x: 5, y: -205}
+        - {x: 49, y: -205}
+        - {x: 48, y: -196}
+        - {x: 38, y: -147}
+    - name: hitEffect05
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 164
+        width: 180
+        height: 374
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 125}
+        - {x: -90, y: 71}
+        - {x: -90, y: -142}
+        - {x: -72, y: -167}
+        - {x: 25, y: -187}
+        - {x: 47, y: -187}
+        - {x: 51, y: -185}
+        - {x: 90, y: -22}
+        - {x: 90, y: 101}
+        - {x: 53, y: 125}
+      - - {x: -54, y: 187}
+        - {x: -54, y: 143}
+        - {x: -39, y: 87}
+        - {x: -30, y: 87}
+        - {x: -30, y: 113}
+        - {x: -34, y: 146}
+        - {x: -49, y: 187}
+    - name: hitEffect06
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 291
+        width: 151
+        height: 247
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 75.5, y: 66.5}
+        - {x: -24.5, y: 121.5}
+        - {x: -39.5, y: 121.5}
+        - {x: -75.5, y: 8.5}
+        - {x: -75.5, y: -28.5}
+        - {x: -38.5, y: -123.5}
+        - {x: 75.5, y: -123.5}
+      - - {x: 43.5, y: 105.5}
+        - {x: -11.5, y: 54.5}
+        - {x: -11.5, y: 46.5}
+        - {x: -10.5, y: 44.5}
+        - {x: -6.5, y: 44.5}
+        - {x: 7.5, y: 49.5}
+        - {x: 63.5, y: 97.5}
+        - {x: 63.5, y: 105.5}
+      - - {x: 19.5, y: 111.5}
+        - {x: 17.5, y: 112.5}
+        - {x: 14.5, y: 111.5}
+        - {x: 8.5, y: 123.5}
+        - {x: 0.5, y: 123.5}
+        - {x: -27.5, y: 72.5}
+        - {x: -27.5, y: 47.5}
+        - {x: -25.5, y: 45.5}
+        - {x: -18.5, y: 45.5}
+        - {x: -4.5, y: 56.5}
+        - {x: 9.5, y: 76.5}
+        - {x: 19.5, y: 107.5}
+    - name: overBall_001
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 222
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 21}
+        - {x: -20, y: 16}
+        - {x: -20, y: -10}
+        - {x: -15, y: -21}
+        - {x: 13, y: -21}
+        - {x: 22, y: -12}
+        - {x: 22, y: 13}
+        - {x: 19, y: 21}
+    - name: overBall_002
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 286
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28, y: 8}
+        - {x: 25, y: 17}
+        - {x: 16, y: 28}
+        - {x: -19, y: 28}
+        - {x: -28, y: 17}
+        - {x: -28, y: -19}
+        - {x: -13, y: -28}
+        - {x: 10, y: -28}
+        - {x: 16, y: -24}
+        - {x: 24, y: -16}
+        - {x: 28, y: -8}
+    - name: overBall_003
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 18
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 30}
+        - {x: -30, y: 21}
+        - {x: -30, y: -18}
+        - {x: -21, y: -30}
+        - {x: 22, y: -30}
+        - {x: 30, y: -22}
+        - {x: 30, y: 18}
+        - {x: 25, y: 30}
+    - name: overBall_004
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 3
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 31}
+        - {x: -30, y: 25}
+        - {x: -30, y: -23}
+        - {x: -16, y: -31}
+        - {x: 24, y: -31}
+        - {x: 30, y: -25}
+        - {x: 30, y: 17}
+        - {x: 24, y: 31}
+      - - {x: -16, y: -10}
+        - {x: -5, y: 18}
+        - {x: 14, y: 13}
+        - {x: 16, y: -10}
+    - name: overBall_005
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 67
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 31}
+        - {x: -30, y: 20}
+        - {x: -30, y: -22}
+        - {x: -16, y: -31}
+        - {x: 17, y: -31}
+        - {x: 30, y: -19}
+        - {x: 30, y: 15}
+        - {x: 18, y: 31}
+      - - {x: -19, y: -14}
+        - {x: -7, y: 22}
+        - {x: 14, y: 19}
+        - {x: 14, y: -20}
+    - name: rockBullet_001
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 2
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: rockBullet_002
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 2
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shockEffect00
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 111
+        width: 125
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -59.5, y: 18}
+        - {x: -62.5, y: 14}
+        - {x: -62.5, y: -10}
+        - {x: -55.5, y: -18}
+        - {x: 62.5, y: -18}
+        - {x: 62.5, y: 18}
+    - name: shockEffect01
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 136
+        width: 187
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -91.5, y: 22.5}
+        - {x: -93.5, y: 15.5}
+        - {x: -93.5, y: -4.5}
+        - {x: -71.5, y: -22.5}
+        - {x: 57.5, y: -22.5}
+        - {x: 93.5, y: -12.5}
+        - {x: 93.5, y: 22.5}
+    - name: shockEffect02
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 21
+        width: 197
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 81.5, y: -1.5}
+        - {x: 78.5, y: -0.5}
+        - {x: 72.5, y: -4.5}
+        - {x: 69.5, y: -4.5}
+        - {x: 80.5, y: 4.5}
+        - {x: 82.5, y: 11.5}
+        - {x: 78.5, y: 18.5}
+        - {x: 40.5, y: 10.5}
+        - {x: 26.5, y: -4.5}
+        - {x: 24.5, y: -6.5}
+        - {x: 30.5, y: 2.5}
+        - {x: 40.5, y: 24.5}
+        - {x: -87.5, y: 24.5}
+        - {x: -98.5, y: 13.5}
+        - {x: -98.5, y: -7.5}
+        - {x: -80.5, y: -24.5}
+        - {x: -54.5, y: -24.5}
+        - {x: 2.5, y: -14.5}
+        - {x: 2.5, y: -10.5}
+        - {x: 1.5, y: -8.5}
+        - {x: 2.5, y: -9.5}
+        - {x: 2.5, y: -12.5}
+        - {x: 4.5, y: -14.5}
+        - {x: 40.5, y: -20.5}
+        - {x: 53.5, y: -18.5}
+        - {x: 56.5, y: -15.5}
+        - {x: 55.5, y: -21.5}
+        - {x: 56.5, y: -24.5}
+        - {x: 67.5, y: -24.5}
+        - {x: 82.5, y: -12.5}
+        - {x: 82.5, y: -9.5}
+      - - {x: 81.5, y: 5.5}
+        - {x: 83.5, y: 2.5}
+        - {x: 89.5, y: 2.5}
+        - {x: 98.5, y: 10.5}
+        - {x: 98.5, y: 16.5}
+        - {x: 96.5, y: 16.5}
+        - {x: 86.5, y: 12.5}
+    - name: shockEffect03
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 72
+        width: 192
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -92, y: -7}
+        - {x: -96, y: -11}
+        - {x: -96, y: -23}
+        - {x: -92, y: -27}
+        - {x: -81, y: -27}
+        - {x: -74, y: -25}
+        - {x: -67, y: -13}
+        - {x: -67, y: -7}
+      - - {x: 71, y: -26}
+        - {x: 71, y: -27}
+        - {x: 78, y: -27}
+        - {x: 80, y: -25}
+        - {x: 79, y: -22}
+        - {x: 76, y: -22}
+      - - {x: 77, y: -5}
+        - {x: 71, y: -5}
+        - {x: 65, y: -8}
+        - {x: 65, y: -12}
+        - {x: 69, y: -23}
+        - {x: 82, y: -27}
+        - {x: 86, y: -27}
+        - {x: 96, y: -22}
+        - {x: 96, y: -13}
+        - {x: 93, y: -10}
+      - - {x: 55, y: 14}
+        - {x: 40, y: 5}
+        - {x: 25, y: -8}
+        - {x: 25, y: -15}
+        - {x: 32, y: -19}
+        - {x: 56, y: -19}
+        - {x: 64, y: -16}
+        - {x: 64, y: 14}
+      - - {x: -40, y: 1}
+        - {x: -62, y: -7}
+        - {x: -62, y: -14}
+        - {x: -52, y: -16}
+        - {x: -13, y: -16}
+        - {x: -5, y: -15}
+        - {x: -5, y: -1}
+        - {x: -13, y: 1}
+      - - {x: 0, y: -2}
+        - {x: -4, y: -5}
+        - {x: -4, y: -7}
+        - {x: -3, y: -9}
+        - {x: 6, y: -14}
+        - {x: 11, y: -14}
+        - {x: 11, y: -5}
+        - {x: 4, y: -2}
+      - - {x: 16, y: -9}
+        - {x: 16, y: -11}
+        - {x: 18, y: -12}
+        - {x: 20, y: -12}
+        - {x: 23, y: -8}
+        - {x: 23, y: -6}
+        - {x: 20, y: -5}
+      - - {x: 14, y: -9}
+        - {x: 17, y: -8}
+        - {x: 17, y: -5}
+        - {x: 14, y: -4}
+        - {x: 12, y: -6}
+      - - {x: -89, y: 10}
+        - {x: -96, y: 10}
+        - {x: -96, y: 3}
+        - {x: -87, y: -4}
+        - {x: -76, y: -4}
+        - {x: -74, y: -2}
+        - {x: -74, y: 3}
+        - {x: -75, y: 6}
+      - - {x: 37, y: 27}
+        - {x: 8, y: 27}
+        - {x: -16, y: 22}
+        - {x: -16, y: 2}
+        - {x: -10, y: -3}
+        - {x: 14, y: -3}
+        - {x: 19, y: -2}
+        - {x: 31, y: 7}
+        - {x: 37, y: 20}
+      - - {x: 64, y: -1}
+        - {x: 65, y: -3}
+        - {x: 68, y: -3}
+        - {x: 79, y: 6}
+        - {x: 80, y: 11}
+        - {x: 77, y: 13}
+        - {x: 67, y: 6}
+      - - {x: -78, y: 17}
+        - {x: -79, y: 14}
+        - {x: -77, y: 8}
+        - {x: -68, y: 1}
+        - {x: -66, y: 1}
+        - {x: -64, y: 2}
+        - {x: -63, y: 7}
+        - {x: -67, y: 13}
+        - {x: -76, y: 17}
+      - - {x: -55, y: 22}
+        - {x: -51, y: 10}
+        - {x: -41, y: 2}
+        - {x: -38, y: 2}
+        - {x: -36, y: 4}
+        - {x: -38, y: 9}
+        - {x: -52, y: 25}
+        - {x: -54, y: 25}
+      - - {x: 88, y: 11}
+        - {x: 88, y: 10}
+        - {x: 90, y: 8}
+        - {x: 94, y: 9}
+        - {x: 96, y: 12}
+        - {x: 95, y: 15}
+        - {x: 92, y: 15}
+    - name: shockEffect04
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 128
+        width: 83
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41.5, y: -17}
+        - {x: -27.5, y: -17}
+        - {x: -28.5, y: -14}
+        - {x: -34.5, y: -13}
+        - {x: -41.5, y: -14}
+      - - {x: -21.5, y: -17}
+        - {x: -11.5, y: -17}
+        - {x: -12.5, y: -14}
+        - {x: -18.5, y: -13}
+        - {x: -21.5, y: -16}
+      - - {x: -25.5, y: 10}
+        - {x: -30.5, y: 10}
+        - {x: -31.5, y: 5}
+        - {x: -31.5, y: -8}
+        - {x: -28.5, y: -8}
+        - {x: -21.5, y: -3}
+        - {x: -21.5, y: 4}
+      - - {x: -20.5, y: 0}
+        - {x: -20.5, y: -7}
+        - {x: 1.5, y: -7}
+        - {x: 15.5, y: 9}
+        - {x: 15.5, y: 17}
+        - {x: 5.5, y: 17}
+        - {x: -4.5, y: 15}
+      - - {x: -36.5, y: -2}
+        - {x: -34.5, y: -4}
+        - {x: -31.5, y: -3}
+        - {x: -31.5, y: 3}
+        - {x: -33.5, y: 5}
+        - {x: -36.5, y: 4}
+      - - {x: 38.5, y: 6}
+        - {x: 34.5, y: -1}
+        - {x: 34.5, y: -3}
+        - {x: 36.5, y: -4}
+        - {x: 37.5, y: -4}
+        - {x: 41.5, y: 0}
+        - {x: 41.5, y: 6}
+    - name: waveEffect00
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 72
+        width: 52
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 27}
+        - {x: -26, y: -12}
+        - {x: -22, y: -27}
+        - {x: 23, y: -27}
+        - {x: 26, y: -21}
+        - {x: 26, y: 23}
+        - {x: 16, y: 27}
+    - name: waveEffect01
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 2
+        width: 49
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 29.5}
+        - {x: -24.5, y: -23.5}
+        - {x: -22.5, y: -29.5}
+        - {x: 24.5, y: -29.5}
+        - {x: 24.5, y: 6.5}
+        - {x: 11.5, y: 29.5}
+    - name: waveEffect02
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 2
+        width: 49
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.5, y: 29.5}
+        - {x: -24.5, y: 29.5}
+        - {x: -24.5, y: -29.5}
+        - {x: 24.5, y: -29.5}
+        - {x: 24.5, y: 23.5}
+    - name: waveEffect03
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 350
+        width: 54
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 29.5}
+        - {x: -27, y: -14.5}
+        - {x: -24, y: -29.5}
+        - {x: 27, y: -29.5}
+        - {x: 27, y: 15.5}
+        - {x: 17, y: 29.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

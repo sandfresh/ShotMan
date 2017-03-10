@@ -1,0 +1,694 @@
+fileFormatVersion: 2
+guid: 24a48d7dcac6fe14a9e4ec0af63ec29a
+timeCreated: 1453271033
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: battleBtn
+    21300002: black
+    21300004: buyBtn
+    21300006: closeBtn
+    21300008: downloadBtn
+    21300010: eCan
+    21300012: okBtn
+    21300014: playBtn
+    21300016: price
+    21300018: s0
+    21300020: s1
+    21300022: s2
+    21300024: s3
+    21300026: s4
+    21300028: s5
+    21300030: s6
+    21300032: s7
+    21300034: s8
+    21300036: s9
+    21300038: skipBtn
+    21300040: u0
+    21300042: u1
+    21300044: u2
+    21300046: u3
+    21300048: u4
+    21300050: u5
+    21300052: u6
+    21300054: u7
+    21300056: u8
+    21300058: u9
+    21300060: white
+    21300062: window
+    21300064: yoCashBar
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: battleBtn
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 140
+        width: 122
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -61, y: 30}
+        - {x: -61, y: -30}
+        - {x: 61, y: -30}
+        - {x: 61, y: 30}
+    - name: black
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 423
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: buyBtn
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 202
+        width: 122
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -61, y: 30}
+        - {x: -61, y: -30}
+        - {x: 61, y: -30}
+        - {x: 61, y: 30}
+    - name: closeBtn
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 56
+        width: 87
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43.5, y: 41}
+        - {x: -43.5, y: -41}
+        - {x: 35.5, y: -41}
+        - {x: 43.5, y: -32}
+        - {x: 43.5, y: 41}
+    - name: downloadBtn
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 264
+        width: 122
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -61, y: 30}
+        - {x: -61, y: -30}
+        - {x: 61, y: -30}
+        - {x: 61, y: 30}
+    - name: eCan
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 44
+        width: 94
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47, y: 47}
+        - {x: -47, y: -47}
+        - {x: 47, y: -47}
+        - {x: 47, y: 47}
+    - name: okBtn
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 326
+        width: 122
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 49, y: 44}
+        - {x: -40, y: 44}
+        - {x: -56, y: 25}
+        - {x: -56, y: -22}
+        - {x: -49, y: -44}
+        - {x: 38, y: -44}
+        - {x: 49, y: -31}
+        - {x: 56, y: -25}
+        - {x: 56, y: 26}
+    - name: playBtn
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 44
+        width: 94
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47, y: 47}
+        - {x: -47, y: -47}
+        - {x: 47, y: -47}
+        - {x: 47, y: 47}
+    - name: price
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 147
+        width: 161
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -77.5, y: 25.5}
+        - {x: -80.5, y: 20.5}
+        - {x: -80.5, y: -18.5}
+        - {x: -73.5, y: -25.5}
+        - {x: 80.5, y: -25.5}
+        - {x: 80.5, y: 25.5}
+    - name: s0
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 48
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 20}
+        - {x: -18, y: 7}
+        - {x: -18, y: -18}
+        - {x: -12, y: -20}
+        - {x: 15, y: -20}
+        - {x: 18, y: -17}
+        - {x: 18, y: 15}
+        - {x: 15, y: 20}
+    - name: s1
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 98
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 20}
+        - {x: -18, y: 8}
+        - {x: -18, y: -20}
+        - {x: 17, y: -20}
+        - {x: 17, y: 2}
+        - {x: 13, y: 20}
+    - name: s2
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 108
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 20}
+        - {x: -18, y: 9}
+        - {x: -18, y: -20}
+        - {x: 14, y: -20}
+        - {x: 18, y: -12}
+        - {x: 18, y: 20}
+    - name: s3
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 124
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 20}
+        - {x: -18, y: 9}
+        - {x: -18, y: -20}
+        - {x: 13, y: -20}
+        - {x: 18, y: -13}
+        - {x: 18, y: 16}
+        - {x: 10, y: 20}
+    - name: s4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 2
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 20}
+        - {x: -18, y: 3}
+        - {x: -18, y: -15}
+        - {x: -13, y: -20}
+        - {x: 11, y: -20}
+        - {x: 17, y: -16}
+        - {x: 17, y: 20}
+    - name: s5
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 2
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 20}
+        - {x: -16, y: 19}
+        - {x: -18, y: 5}
+        - {x: -18, y: -15}
+        - {x: -13, y: -20}
+        - {x: 13, y: -20}
+        - {x: 18, y: -9}
+        - {x: 18, y: 20}
+    - name: s6
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 2
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 20}
+        - {x: -18, y: 15}
+        - {x: -18, y: -20}
+        - {x: 14, y: -20}
+        - {x: 17, y: -17}
+        - {x: 17, y: 20}
+    - name: s7
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 2
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 20}
+        - {x: -17, y: -15}
+        - {x: -14, y: -20}
+        - {x: 10, y: -20}
+        - {x: 17, y: -3}
+        - {x: 17, y: 20}
+    - name: s8
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 2
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 20}
+        - {x: -16, y: 20}
+        - {x: -18, y: 19}
+        - {x: -18, y: -20}
+        - {x: 13, y: -20}
+        - {x: 17, y: -12}
+        - {x: 18, y: -6}
+        - {x: 18, y: 18}
+    - name: s9
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 20}
+        - {x: -11, y: 20}
+        - {x: -18, y: 9}
+        - {x: -18, y: -17}
+        - {x: -15, y: -20}
+        - {x: 13, y: -20}
+        - {x: 18, y: -11}
+        - {x: 18, y: 14}
+        - {x: 17, y: 16}
+    - name: skipBtn
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 416
+        width: 94
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33, y: 47}
+        - {x: -40, y: 47}
+        - {x: -47, y: 45}
+        - {x: -47, y: -46}
+        - {x: -43, y: -47}
+        - {x: 36, y: -47}
+        - {x: 47, y: -31}
+        - {x: 47, y: 25}
+        - {x: 45, y: 35}
+    - name: u0
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 90
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 24}
+        - {x: -14, y: 24}
+        - {x: -23, y: 10}
+        - {x: -23, y: -12}
+        - {x: -17, y: -24}
+        - {x: 12, y: -24}
+        - {x: 23, y: -16}
+        - {x: 24, y: -10}
+        - {x: 24, y: 19}
+    - name: u1
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 24
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 24}
+        - {x: -22, y: 13}
+        - {x: -22, y: -24}
+        - {x: 24, y: -24}
+        - {x: 25, y: -18}
+        - {x: 25, y: 0}
+        - {x: 17, y: 24}
+    - name: u2
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 74
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 24}
+        - {x: -6, y: 24}
+        - {x: -11, y: 22}
+        - {x: -24, y: 14}
+        - {x: -24, y: -24}
+        - {x: 21, y: -24}
+        - {x: 23, y: -18}
+        - {x: 25, y: -9}
+        - {x: 25, y: 17}
+    - name: u3
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 8
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 24}
+        - {x: -20, y: 18}
+        - {x: -23, y: 8}
+        - {x: -23, y: -18}
+        - {x: -17, y: -24}
+        - {x: 12, y: -24}
+        - {x: 24, y: -18}
+        - {x: 24, y: 23}
+        - {x: 19, y: 24}
+    - name: u4
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 58
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 24}
+        - {x: -23, y: 0}
+        - {x: -23, y: -16}
+        - {x: -7, y: -24}
+        - {x: 16, y: -24}
+        - {x: 25, y: -12}
+        - {x: 25, y: 13}
+        - {x: 21, y: 24}
+    - name: u5
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 150
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 24}
+        - {x: -23, y: 9}
+        - {x: -23, y: -15}
+        - {x: -19, y: -24}
+        - {x: 14, y: -24}
+        - {x: 25, y: -14}
+        - {x: 25, y: 24}
+    - name: u6
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 150
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 24}
+        - {x: -23, y: 16}
+        - {x: -23, y: -13}
+        - {x: -20, y: -24}
+        - {x: 20, y: -24}
+        - {x: 24, y: -15}
+        - {x: 24, y: 24}
+    - name: u7
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 6
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 24}
+        - {x: -21, y: 22}
+        - {x: -21, y: -24}
+        - {x: 23, y: -24}
+        - {x: 24, y: -17}
+        - {x: 24, y: 24}
+    - name: u8
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 6
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 24}
+        - {x: -20, y: 18}
+        - {x: -23, y: 0}
+        - {x: -23, y: -20}
+        - {x: -19, y: -24}
+        - {x: 14, y: -24}
+        - {x: 25, y: -20}
+        - {x: 25, y: 23}
+        - {x: 21, y: 24}
+    - name: u9
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 150
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 24}
+        - {x: -23, y: 20}
+        - {x: -23, y: -24}
+        - {x: 18, y: -24}
+        - {x: 24, y: -13}
+        - {x: 24, y: 22}
+        - {x: 17, y: 24}
+    - name: white
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 166
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: window
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 200
+        width: 365
+        height: 239
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.5, y: -117.5}
+        - {x: 9.5, y: -100.5}
+        - {x: 41.5, y: -112.5}
+        - {x: 124.5, y: -114.5}
+        - {x: 126.5, y: -119.5}
+        - {x: 182.5, y: -119.5}
+        - {x: 182.5, y: -87.5}
+        - {x: 174.5, y: -36.5}
+        - {x: 182.5, y: -33.5}
+        - {x: 182.5, y: 30.5}
+        - {x: 176.5, y: 36.5}
+        - {x: 182.5, y: 86.5}
+        - {x: 182.5, y: 119.5}
+        - {x: 126.5, y: 119.5}
+        - {x: 124.5, y: 112.5}
+        - {x: 40.5, y: 112.5}
+        - {x: 29.5, y: 104.5}
+        - {x: -6.5, y: 114.5}
+        - {x: -8.5, y: 107.5}
+        - {x: -41.5, y: 111.5}
+        - {x: -124.5, y: 113.5}
+        - {x: -127.5, y: 119.5}
+        - {x: -182.5, y: 119.5}
+        - {x: -182.5, y: 77.5}
+        - {x: -180.5, y: 67.5}
+        - {x: -182.5, y: 52.5}
+        - {x: -182.5, y: -119.5}
+        - {x: -129.5, y: -119.5}
+        - {x: -124.5, y: -113.5}
+        - {x: -40.5, y: -113.5}
+        - {x: -29.5, y: -104.5}
+    - name: yoCashBar
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 441
+        width: 388
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -180, y: 34.5}
+        - {x: -192, y: 23.5}
+        - {x: -194, y: 17.5}
+        - {x: -194, y: -34.5}
+        - {x: 190, y: -34.5}
+        - {x: 194, y: -24.5}
+        - {x: 194, y: 27.5}
+        - {x: 68, y: 34.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

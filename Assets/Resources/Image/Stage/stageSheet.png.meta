@@ -1,0 +1,408 @@
+fileFormatVersion: 2
+guid: f235794ea0bf94343a0b0676874e18e3
+timeCreated: 1453256815
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: levelBtn0
+    21300002: levelBtn1
+    21300004: levelBtn2
+    21300006: lock
+    21300008: name0
+    21300010: name1
+    21300012: name2
+    21300014: pageBtn1
+    21300016: pageBtn2
+    21300018: pageBtn3
+    21300020: playBtn
+    21300022: q
+    21300024: stageBg
+    21300026: stageBtn
+    21300028: stageBtn0
+    21300030: stageBtn1
+    21300032: stageBtn2
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: levelBtn0
+      rect:
+        serializedVersion: 2
+        x: 1733
+        y: 5
+        width: 120
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -60, y: 30}
+        - {x: -60, y: -30}
+        - {x: 60, y: -30}
+        - {x: 60, y: 30}
+    - name: levelBtn1
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 5
+        width: 120
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -60, y: 30}
+        - {x: -60, y: -30}
+        - {x: 60, y: -30}
+        - {x: 60, y: 30}
+    - name: levelBtn2
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 5
+        width: 120
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -60, y: 30}
+        - {x: -60, y: -30}
+        - {x: 60, y: -30}
+        - {x: 60, y: 30}
+    - name: lock
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 174
+        width: 123
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -61.5, y: 34}
+        - {x: -61.5, y: -34}
+        - {x: 61.5, y: -34}
+        - {x: 61.5, y: 34}
+    - name: name0
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 135
+        width: 243
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0.5, y: 53.5}
+        - {x: -93.5, y: 53.5}
+        - {x: -121.5, y: 9.5}
+        - {x: -121.5, y: -17.5}
+        - {x: 61.5, y: -53.5}
+        - {x: 112.5, y: -53.5}
+        - {x: 121.5, y: -6.5}
+        - {x: 121.5, y: 41.5}
+        - {x: 33.5, y: 51.5}
+    - name: name1
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 26
+        width: 243
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0.5, y: 53.5}
+        - {x: -93.5, y: 53.5}
+        - {x: -121.5, y: 9.5}
+        - {x: -121.5, y: -17.5}
+        - {x: 61.5, y: -53.5}
+        - {x: 112.5, y: -53.5}
+        - {x: 121.5, y: -6.5}
+        - {x: 121.5, y: 41.5}
+        - {x: 33.5, y: 51.5}
+    - name: name2
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 135
+        width: 243
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0.5, y: 53.5}
+        - {x: -93.5, y: 53.5}
+        - {x: -121.5, y: 9.5}
+        - {x: -121.5, y: -17.5}
+        - {x: 61.5, y: -53.5}
+        - {x: 112.5, y: -53.5}
+        - {x: 121.5, y: -6.5}
+        - {x: 121.5, y: 41.5}
+        - {x: 33.5, y: 51.5}
+    - name: pageBtn1
+      rect:
+        serializedVersion: 2
+        x: 1857
+        y: 60
+        width: 96
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48, y: 45}
+        - {x: -48, y: -38}
+        - {x: -38, y: -45}
+        - {x: 45, y: -45}
+        - {x: 48, y: -24}
+        - {x: 48, y: 36}
+        - {x: 41, y: 45}
+    - name: pageBtn2
+      rect:
+        serializedVersion: 2
+        x: 1759
+        y: 82
+        width: 96
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48, y: 45}
+        - {x: -48, y: -38}
+        - {x: -38, y: -45}
+        - {x: 45, y: -45}
+        - {x: 48, y: -24}
+        - {x: 48, y: 36}
+        - {x: 41, y: 45}
+    - name: pageBtn3
+      rect:
+        serializedVersion: 2
+        x: 1859
+        y: 152
+        width: 96
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48, y: 45}
+        - {x: -48, y: -38}
+        - {x: -38, y: -45}
+        - {x: 45, y: -45}
+        - {x: 48, y: -24}
+        - {x: 48, y: 36}
+        - {x: 41, y: 45}
+    - name: playBtn
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 67
+        width: 268
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -129, y: 33}
+        - {x: -134, y: 29}
+        - {x: -134, y: -5}
+        - {x: -130, y: -28}
+        - {x: -120, y: -33}
+        - {x: 131, y: -33}
+        - {x: 134, y: -30}
+        - {x: 134, y: 19}
+        - {x: 126, y: 33}
+    - name: q
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 4
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 27}
+        - {x: -24, y: 4}
+        - {x: -9, y: 4}
+        - {x: -7, y: 6}
+        - {x: -10, y: 2}
+        - {x: -12, y: -18}
+        - {x: -10, y: -27}
+        - {x: 10, y: -27}
+        - {x: 24, y: -3}
+        - {x: 24, y: 27}
+    - name: stageBg
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 400
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -200, y: 120}
+        - {x: -200, y: -120}
+        - {x: 200, y: -120}
+        - {x: 200, y: 120}
+    - name: stageBtn
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 22
+        width: 418
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 209, y: -38.5}
+        - {x: 209, y: 30.5}
+        - {x: 193, y: 45.5}
+        - {x: 183, y: 46.5}
+        - {x: 35, y: 47.5}
+        - {x: -37, y: 46.5}
+        - {x: -59, y: 54.5}
+        - {x: -198, y: 54.5}
+        - {x: -209, y: 49.5}
+        - {x: -209, y: -42.5}
+        - {x: -197, y: -54.5}
+        - {x: 190, y: -54.5}
+        - {x: 193, y: -53.5}
+        - {x: 199, y: -50.5}
+        - {x: 207, y: -41.5}
+    - name: stageBtn0
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 133
+        width: 418
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 209, y: -38.5}
+        - {x: 209, y: 30.5}
+        - {x: 193, y: 45.5}
+        - {x: 183, y: 46.5}
+        - {x: 35, y: 47.5}
+        - {x: -37, y: 46.5}
+        - {x: -59, y: 54.5}
+        - {x: -198, y: 54.5}
+        - {x: -209, y: 49.5}
+        - {x: -209, y: -42.5}
+        - {x: -197, y: -54.5}
+        - {x: 190, y: -54.5}
+        - {x: 193, y: -53.5}
+        - {x: 199, y: -50.5}
+        - {x: 207, y: -41.5}
+    - name: stageBtn1
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 22
+        width: 418
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 209, y: -38.5}
+        - {x: 209, y: 30.5}
+        - {x: 193, y: 45.5}
+        - {x: 183, y: 46.5}
+        - {x: 35, y: 47.5}
+        - {x: -37, y: 46.5}
+        - {x: -59, y: 54.5}
+        - {x: -198, y: 54.5}
+        - {x: -209, y: 49.5}
+        - {x: -209, y: -42.5}
+        - {x: -197, y: -54.5}
+        - {x: 190, y: -54.5}
+        - {x: 193, y: -53.5}
+        - {x: 199, y: -50.5}
+        - {x: 207, y: -41.5}
+    - name: stageBtn2
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 133
+        width: 418
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 209, y: -38.5}
+        - {x: 209, y: 30.5}
+        - {x: 193, y: 45.5}
+        - {x: 183, y: 46.5}
+        - {x: 35, y: 47.5}
+        - {x: -37, y: 46.5}
+        - {x: -59, y: 54.5}
+        - {x: -198, y: 54.5}
+        - {x: -209, y: 49.5}
+        - {x: -209, y: -42.5}
+        - {x: -197, y: -54.5}
+        - {x: 190, y: -54.5}
+        - {x: 193, y: -53.5}
+        - {x: 199, y: -50.5}
+        - {x: 207, y: -41.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

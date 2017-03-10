@@ -1,0 +1,48 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: boss1Sheet.png (992 x 356)
+# $TexturePacker:SmartUpdate:bae82b346c3a3699b7ada8eff4b25b68:ba208242837241f42f6e0d6d3a3e8ee6:ab2f752e24e98d37b8628cd83ab2c3bb$
+#
+
+b1BurstAtk00;705;77;77;99;0.5;0
+b1BurstAtk01;633;178;77;99;0.5;0
+b1BurstAtk02;626;76;77;99;0.5;0
+b1Dash00;686;9;72;65;0.5;0
+b1Dash01;504;3;95;70;0.5;0
+b1Dash02;895;131;80;80;0.5;0
+b1DashAtk00;601;3;83;70;0.5;0
+b1DashAtk01;407;3;95;70;0.5;0
+b1Die00;142;250;65;104;0.5;0
+b1Die01;712;187;94;90;0.5;0
+b1Die02;760;11;106;64;0.5;0
+b1Die03;895;213;91;64;0.5;0
+b1Die04;142;2;105;42;0.5;0
+b1Face;397;279;539;75;0.5;0
+b1JumpDown00;930;49;59;80;0.5;0
+b1JumpDown01;561;75;63;100;0.5;0
+b1JumpUp03;868;18;60;80;0.5;0
+b1KnifeAtk00;561;177;70;100;0.5;0
+b1KnifeAtk01;808;192;85;85;0.5;0
+b1KnifeAtk02;784;100;85;85;0.5;0
+b1Standby00;484;75;75;100;0.5;0
+b1Standby01;484;177;75;100;0.5;0
+b1Standby02;407;75;75;100;0.5;0
+b1Standby03;407;177;75;100;0.5;0
+b1Standby04;330;50;75;100;0.5;0
+b1Standby05;330;152;75;100;0.5;0
+b1UpAtk00;236;50;92;100;0.5;0
+b1UpAtk01;303;254;92;100;0.5;0
+b1UpAtk02;236;152;92;100;0.5;0
+b1UpAtk03;142;46;92;100;0.5;0
+b1UpAtk04;209;254;92;100;0.5;0
+b1UpAtk05;142;148;92;100;0.5;0
+b1Walk00;72;29;68;107;0.5;0
+b1Walk01;72;138;68;107;0.5;0
+b1Walk02;72;247;68;107;0.5;0
+b1Walk03;2;29;68;107;0.5;0
+b1Walk04;2;138;68;107;0.5;0
+b1Walk05;2;247;68;107;0.5;0

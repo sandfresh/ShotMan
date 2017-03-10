@@ -1,0 +1,46 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: effectSheet.png (1028 x 1024)
+# $TexturePacker:SmartUpdate:a4d0632296e4ba4996d18222063c06c3:cd1c1541aa024455edc5c4c2c6c2096f:d6c815de2dea6025554919c399006b59$
+#
+
+AirPushEffect00;569;448;187;256;0.5;0.5
+AirPushEffect01;380;190;187;256;0.5;0.5
+AirPushEffect02;380;448;187;256;0.5;0.5
+AirPushEffect03;191;190;187;256;0.5;0.5
+AirPushEffect04;191;448;187;256;0.5;0.5
+AirPushEffect05;779;766;187;256;0.5;0.5
+AirPushEffect06;590;766;187;256;0.5;0.5
+AirPushEffect07;401;766;187;256;0.5;0.5
+AirPushEffect08;2;212;187;256;0.5;0.5
+AirPushEffect09;212;766;187;256;0.5;0.5
+AirPushEffect10;2;470;187;256;0.5;0.5
+DashAtkEffect00;909;328;117;107;0.5;0.5
+DashAtkEffect01;755;213;157;102;0.5;0.5
+DashAtkEffect02;270;12;161;116;0.5;0.5
+DashAtkEffect03;755;317;152;118;0.5;0.5
+DashAtkEffect04;755;108;134;103;0.5;0.5
+DashEffect00;2;15;90;26;0.5;0.5
+DashEffect01;828;41;110;50;0.5;0.5
+DashEffect02;717;50;109;56;0.5;0.5
+DashEffect03;922;650;99;61;0.5;0.5
+DashEffect04;922;584;79;64;0.5;0.5
+knifeEffect00;914;215;110;111;0.5;0.5
+knifeEffect01;891;93;118;118;0.5;0.5
+knifeEffect02;142;2;126;126;0.5;0.5
+knifeEffect03;2;43;138;167;0.5;0.5
+knifeEffect04;758;494;162;210;0.5;0.5
+knifeEffect05;569;194;184;252;0.5;0.5
+knifeEffect06;2;728;208;294;0.5;0.5
+knifeEffect07;787;713;230;51;0.5;0.5
+knifeEffect08;758;437;254;55;0.5;0.5
+knifeEffect09;428;130;276;58;0.5;0.5
+knifeEffect10;433;70;279;58;0.5;0.5
+knifeEffect11;433;11;282;57;0.5;0.5
+knifeEffect12;142;130;284;58;0.5;0.5
+knifeEffect13;500;706;285;58;0.5;0.5
+knifeEffect14;212;706;286;58;0.5;0.5

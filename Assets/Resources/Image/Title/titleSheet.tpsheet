@@ -1,0 +1,17 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: titleSheet.png (1172 x 484)
+# $TexturePacker:SmartUpdate:ae9416075b4c289a019eb5fecbadb44c:cf1f0474462974a480b8d5c93d4f166f:0af8ef3af4b51e2b01cac2ce3490525e$
+#
+
+audioBtn_001;1071;60;87;82;0.5;0.5
+audioBtn_002;982;60;87;82;0.5;0.5
+fbBtn;893;60;87;82;0.5;0.5
+galleryBtn;804;338;365;144;0.5;0.5
+rateBtn;804;60;87;82;0.5;0.5
+startBtn;804;144;339;192;0.5;0.5
+titleBg;2;2;800;480;0.5;0.5

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<languages>
+    <English>
+        <string name="time">Time</string>
+        <string name="rate">Accuracy</string>
+        <string name="combo">Combo</string>
+        <string name="remainhp">HP</string> 
+        <string name="accuracy">Accuracy</string>
+        <string name="wincomment1">My stick has no limitness!</string>
+        <string name="wincomment2">Try my stick power!!</string>
+
+        <string name="losecomment1">好痛的感覺!!</string>
+        <string name="losecomment2">Hate lose feeling!</string> 
+   
+        <string name="downloadover">Download over</string> 
+        <string name="open">open</string>
+    
+    </English>
+  
+
+   <zh-TW>
+        <string name="time">時間</string>
+        <string name="rate">命中率</string>
+        <string name="combo">連段數</string>
+        <string name="remainhp">殘血量</string> 
+        <string name="accuracy">命中率</string>
+        <string name="wincomment1">今天的棒子沒有極限!</string>
+        <string name="wincomment2">嚐嚐老衲棒子的威力吧!!</string>
+
+        <string name="losecomment1">好痛的感覺!!</string>
+        <string name="losecomment2">又被打爆了!!</string> 
+   
+        <string name="downloadover">下載超過</string> 
+        <string name="open">開放</string>
+   </zh-TW>
+</languages>

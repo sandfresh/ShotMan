@@ -1,0 +1,50 @@
+version: 2
+importPivots: 1
+tpsheetFileNames:
+- Assets/codeandweb.com/Example/SpriteSheet/sprites.tpsheet
+- Assets/Resources/Image/Title/titleSheet.tpsheet
+- Assets/Resources/Image/Boss2/boss2Sheet.tpsheet
+- Assets/Resources/Image/Boss1/boo1Sheet.tpsheet
+- Assets/Resources/Image/Boss3/boss3Sheet.tpsheet
+- Assets/Resources/Image/Effect/effectSheet.tpsheet
+- Assets/Resources/Image/Effect3/effect3.tpsheet
+- Assets/Resources/Image/System/systemSheet.tpsheet
+- Assets/Resources/Image/Stage/stageSheet.tpsheet
+- Assets/Resources/Image/Rock/rockSheet.tpsheet
+- Assets/Resources/Image/Effect4/effect4Sheet.tpsheet
+- Assets/Resources/Image/Game/gameSheet.tpsheet
+- Assets/Resources/Image/System/systemAltas.tpsheet
+- Assets/Resources/Image/Effect5/effect5Sheet.tpsheet
+- Assets/Resources/Image/Effect2/effect2Sheet.tpsheet
+textureFileNames:
+- Assets/codeandweb.com/Example/SpriteSheet/sprites.png
+- Assets/Resources/Image/Title/titleSheet.png
+- Assets/Resources/Image/Boss2/boss2Sheet.png
+- Assets/Resources/Image/Boss1/boss1Sheet.png
+- Assets/Resources/Image/Boss3/boss3Sheet.png
+- Assets/Resources/Image/Effect/effectSheet.png
+- Assets/Resources/Image/Effect3/effect3.png
+- Assets/Resources/Image/System/systemSheet.png
+- Assets/Resources/Image/Stage/stageSheet.png
+- Assets/Resources/Image/Rock/rockSheet.png
+- Assets/Resources/Image/Effect4/effect4Sheet.png
+- Assets/Resources/Image/Game/gameSheet.png
+- Assets/Resources/Image/System/systemAltas.png
+- Assets/Resources/Image/Effect5/Effect5Texture.png
+- Assets/Resources/Image/Effect2/effect2Sheet.png
+normalmapFileNames:
+- Assets/codeandweb.com/Example/SpriteSheet/sprites_n.png
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 

@@ -1,0 +1,13 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: stage2Altas.png (1208 x 484)
+# $TexturePacker:SmartUpdate:c3c1b8553bdfca1b07cd5ea650f0858f:0e7f533b80a59d33cf8343f330d77a61:2ac0ce89dccd5e972084d84fe9ff042e$
+#
+
+bossArt0;806;2;400;480;0.5;0.5
+bossArt1;404;2;400;480;0.5;0.5
+bossArt2;2;2;400;480;0.5;0.5

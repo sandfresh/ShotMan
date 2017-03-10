@@ -1,0 +1,35 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: effect3.png (1976 x 492)
+# $TexturePacker:SmartUpdate:4081d958ff035c682ef00d2c149c3938:f3f79792b378ef5c8af18cd8fd43bf8d:bb8e61f04e2159b9bcf062b5fc96912d$
+#
+
+darkExplosionEffect00;945;344;146;146;0.5;0.5
+darkExplosionEffect01;430;146;172;171;0.5;0.5
+darkExplosionEffect02;430;319;174;171;0.5;0.5
+darkExplosionEffect03;2;306;208;184;0.5;0.5
+darkExplosionEffect04;234;141;194;172;0.5;0.5
+darkExplosionEffect05;212;315;216;175;0.5;0.5
+darkExplosionEffect06;2;126;230;178;0.5;0.5
+darkExplosionEffect07;1213;67;238;138;0.5;0.5
+darkExplosionEffect08;1340;352;246;138;0.5;0.5
+darkExplosionEffect09;1170;207;246;138;0.5;0.5
+darkExplosionEffect10;1093;347;245;143;0.5;0.5
+darkExplosionEffect11;604;167;243;150;0.5;0.5
+darkExplosionEffect12;315;7;242;132;0.5;0.5
+darkExplosionEffect13;1453;116;241;114;0.5;0.5
+darkExplosionEffect14;1453;3;208;111;0.5;0.5
+shockwaveEffect00;1453;260;82;90;0.5;0.5
+shockwaveEffect01;1663;10;179;104;0.5;0.5
+shockwaveEffect02;1588;360;337;130;0.5;0.5
+shockwaveEffect03;1588;232;332;126;0.5;0.5
+shockwaveEffect04;885;52;326;138;0.5;0.5
+shockwaveEffect05;849;192;319;148;0.5;0.5
+shockwaveEffect06;606;342;337;148;0.5;0.5
+shockwaveEffect07;559;5;324;139;0.5;0.5
+shockwaveEffect08;2;2;311;122;0.5;0.5
+shockwaveEffect09;1696;140;276;90;0.5;0.5

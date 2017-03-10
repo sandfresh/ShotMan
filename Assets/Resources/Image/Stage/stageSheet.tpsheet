@@ -1,0 +1,27 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: stageSheet.png (1960 x 244)
+# $TexturePacker:SmartUpdate:5c1d610c659767d8568f6e3571720bbb:6b61d2c2ae0e504770a1e74ce9585f45:2f71c3b42d95fb39504ec30b4f31a330$
+#
+
+levelBtn0;1733;5;120;60;0.5;0.5
+levelBtn1;1611;5;120;60;0.5;0.5
+levelBtn2;1489;5;120;60;0.5;0.5
+lock;1734;174;123;68;0.5;0.5
+name0;1489;135;243;107;0.5;0.5
+name1;1244;26;243;107;0.5;0.5
+name2;1244;135;243;107;0.5;0.5
+pageBtn1;1857;60;96;90;0.5;0.5
+pageBtn2;1759;82;96;90;0.5;0.5
+pageBtn3;1859;152;96;90;0.5;0.5
+playBtn;1489;67;268;66;0.5;0.5
+q;1855;4;48;54;0.5;0.5
+stageBg;2;2;400;240;0.5;0.5
+stageBtn;824;22;418;109;0.5;0.5
+stageBtn0;824;133;418;109;0.5;0.5
+stageBtn1;404;22;418;109;0.5;0.5
+stageBtn2;404;133;418;109;0.5;0.5

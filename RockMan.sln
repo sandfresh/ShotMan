@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RockMan.CSharp", "RockMan.CSharp.csproj", "{AB283E81-C685-744F-0332-D4E7936C8ED0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RockMan.CSharp.Editor", "RockMan.CSharp.Editor.csproj", "{2E0930D8-FE27-4C65-AB51-1A90F1C2FE31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB283E81-C685-744F-0332-D4E7936C8ED0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB283E81-C685-744F-0332-D4E7936C8ED0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB283E81-C685-744F-0332-D4E7936C8ED0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB283E81-C685-744F-0332-D4E7936C8ED0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E0930D8-FE27-4C65-AB51-1A90F1C2FE31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E0930D8-FE27-4C65-AB51-1A90F1C2FE31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E0930D8-FE27-4C65-AB51-1A90F1C2FE31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E0930D8-FE27-4C65-AB51-1A90F1C2FE31}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

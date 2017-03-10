@@ -1,0 +1,49 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: effect4Sheet.png (1016 x 540)
+# $TexturePacker:SmartUpdate:d1c3afb3683b0b8ff5aa543fe3c4f3ee:bbca4d6d3aabb36bd1c04c31d1f9baca:d750c4c5cc756a50c23b1a20d9885a27$
+#
+
+KickEffect00;680;240;154;49;0.5;0.5
+KickEffect01;833;299;117;48;0.5;0.5
+KickEffect02;680;190;132;48;0.5;0.5
+KickEffect03;802;82;107;19;0.5;0.5
+bossHitEffect00;642;33;96;96;0.5;0.5
+bossHitEffect01;544;38;96;96;0.5;0.5
+bossHitEffect02;446;13;96;96;0.5;0.5
+bossHitEffect03;348;13;96;96;0.5;0.5
+bossHitEffect04;250;26;96;96;0.5;0.5
+bossHitEffect05;916;103;96;96;0.5;0.5
+bossHitEffect06;818;103;96;96;0.5;0.5
+bossHitEffect07;836;201;96;96;0.5;0.5
+clawEffect00;257;124;89;38;0.5;0.5
+clawEffect01;699;131;117;57;0.5;0.5
+clawEffect02;911;63;86;38;0.5;0.5
+clawEffect03;544;10;69;26;0.5;0.5
+hitEffect00;929;411;64;127;0.5;0.5
+hitEffect01;833;349;94;189;0.5;0.5
+hitEffect02;510;183;168;355;0.5;0.5
+hitEffect03;354;149;154;389;0.5;0.5
+hitEffect04;2;128;168;410;0.5;0.5
+hitEffect05;172;164;180;374;0.5;0.5
+hitEffect06;680;291;151;247;0.5;0.5
+overBall_001;934;222;60;62;0.5;0.5
+overBall_002;952;286;60;62;0.5;0.5
+overBall_003;802;18;60;62;0.5;0.5
+overBall_004;740;3;60;62;0.5;0.5
+overBall_005;740;67;60;62;0.5;0.5
+rockBullet_001;824;2;20;14;0.5;0.5
+rockBullet_002;802;2;20;14;0.5;0.5
+shockEffect00;348;111;125;36;0.5;0.5
+shockEffect01;510;136;187;45;0.5;0.5
+shockEffect02;2;21;197;49;0.5;0.5
+shockEffect03;2;72;192;54;0.5;0.5
+shockEffect04;172;128;83;34;0.5;0.5
+waveEffect00;196;72;52;54;0.5;0.5
+waveEffect01;915;2;49;59;0.5;0.5
+waveEffect02;864;2;49;59;0.5;0.5
+waveEffect03;929;350;54;59;0.5;0.5

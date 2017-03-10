@@ -1,0 +1,1871 @@
+fileFormatVersion: 2
+guid: aa989495da7764944b643273fe1bf3f9
+timeCreated: 1453268870
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: bossHitEffect00
+    21300002: bossHitEffect01
+    21300004: bossHitEffect02
+    21300006: bossHitEffect03
+    21300008: bossHitEffect04
+    21300010: bossHitEffect05
+    21300012: bossHitEffect06
+    21300014: bossHitEffect07
+    21300016: heal
+    21300018: hitEffect00
+    21300020: hitEffect01
+    21300022: hitEffect02
+    21300024: hitEffect03
+    21300026: hitEffect04
+    21300028: hitEffect05
+    21300030: hitEffect06
+    21300032: overBall
+    21300034: rockAtk00
+    21300036: rockAtk01
+    21300038: rockAtk02
+    21300040: rockBullet
+    21300042: rockFire
+    21300044: rockHurt00
+    21300046: rockHurt01
+    21300048: rockHurt02
+    21300050: rockHurt03
+    21300052: rockHurt04
+    21300054: rockHurt05
+    21300056: rockHurt06
+    21300058: rockHurt07
+    21300060: rockHurt08
+    21300062: rockHurt09
+    21300064: rockHurt10
+    21300066: rockHurt11
+    21300068: rockHurt12
+    21300070: rockHurt13
+    21300072: rockHurt14
+    21300074: rockHurt15
+    21300076: rockJumpAtk
+    21300078: rockJumpDown00
+    21300080: rockJumpDown01
+    21300082: rockJumpDown02
+    21300084: rockJumpUp00
+    21300086: rockJumpUp01
+    21300088: rockJumpUp02
+    21300090: rockJumpUp03
+    21300092: rockJumpUp04
+    21300094: rockLightEffect
+    21300096: rockLine00
+    21300098: rockLine01
+    21300100: rockLine02
+    21300102: rockLine03
+    21300104: rockShow00
+    21300106: rockShow01
+    21300108: rockShow02
+    21300110: rockShow03
+    21300112: rockShow04
+    21300114: rockShow05
+    21300116: rockShow06
+    21300118: rockStandby00
+    21300120: rockStandby01
+    21300122: rockStandby02
+    21300124: rockStandby03
+    21300126: rockWalk00
+    21300128: rockWalk01
+    21300130: rockWalk02
+    21300132: rockWalk03
+    21300134: rockWalk04
+    21300136: rockWalk05
+    21300138: rockWalk06
+    21300140: rockWalk07
+    21300142: rockWalk08
+    21300144: rockWalk09
+    21300146: rockWalk10
+    21300148: rockWalk11
+    21300150: rockWalk12
+    21300152: rockWalkAtk00
+    21300154: rockWalkAtk01
+    21300156: rockWalkAtk02
+    21300158: rockWalkAtk03
+    21300160: rockWalkAtk04
+    21300162: rockWalkAtk05
+    21300164: rockWalkAtk06
+    21300166: rockWalkAtk07
+    21300168: rockWalkAtk08
+    21300170: rockWalkAtk09
+    21300172: rockWalkAtk10
+    21300174: rockWalkAtk11
+    21300176: rockWalkAtk12
+    21300178: rockWin00
+    21300180: rockWin01
+    21300182: rockWin02
+    21300184: overBall_001
+    21300186: overBall_002
+    21300188: overBall_003
+    21300190: overBall_004
+    21300192: overBall_005
+    21300194: rockBullet_001
+    21300196: rockBullet_002
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: heal
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 822
+        width: 480
+        height: 192
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -178, y: 72}
+        - {x: -205, y: 72}
+        - {x: -208, y: 65}
+        - {x: -214, y: 40}
+        - {x: -214, y: 34}
+        - {x: -205, y: 27}
+        - {x: -192, y: 25}
+        - {x: -183, y: 25}
+        - {x: -177, y: 31}
+        - {x: -171, y: 48}
+        - {x: -171, y: 64}
+      - - {x: -94, y: 43}
+        - {x: -91, y: 42}
+        - {x: -89, y: 42}
+        - {x: -97, y: 36}
+        - {x: -98, y: 32}
+        - {x: -92, y: 29}
+        - {x: -76, y: 42}
+        - {x: -76, y: 66}
+        - {x: -88, y: 73}
+        - {x: -112, y: 73}
+        - {x: -115, y: 66}
+        - {x: -115, y: 36}
+        - {x: -112, y: 29}
+        - {x: -105, y: 29}
+        - {x: -95, y: 39}
+      - - {x: -10, y: 68}
+        - {x: -12, y: 64}
+        - {x: -12, y: 62}
+        - {x: -16, y: 47}
+        - {x: -16, y: 36}
+        - {x: -12, y: 33}
+        - {x: -6, y: 33}
+        - {x: 18, y: 48}
+        - {x: 18, y: 60}
+        - {x: -1, y: 68}
+      - - {x: -201, y: 135}
+        - {x: -230, y: 113}
+        - {x: -230, y: 108}
+        - {x: -227, y: 103}
+        - {x: -226, y: 102}
+        - {x: -219, y: 102}
+        - {x: -199, y: 117}
+        - {x: -197, y: 126}
+        - {x: -197, y: 134}
+        - {x: -199, y: 135}
+      - - {x: -84, y: 177}
+        - {x: -98, y: 183}
+        - {x: -131, y: 183}
+        - {x: -139, y: 177}
+        - {x: -139, y: 168}
+        - {x: -138, y: 167}
+        - {x: -128, y: 167}
+        - {x: -139, y: 108}
+        - {x: -134, y: 102}
+        - {x: -109, y: 102}
+        - {x: -53, y: 129}
+        - {x: -49, y: 133}
+        - {x: -49, y: 158}
+      - - {x: -38, y: 174}
+        - {x: -38, y: 112}
+        - {x: -4, y: 112}
+        - {x: 34, y: 131}
+        - {x: 34, y: 160}
+        - {x: 8, y: 174}
+      - - {x: 167, y: 143}
+        - {x: 167, y: 126}
+        - {x: 178, y: 119}
+        - {x: 205, y: 119}
+        - {x: 210, y: 130}
+        - {x: 210, y: 165}
+        - {x: 208, y: 169}
+        - {x: 191, y: 169}
+        - {x: 177, y: 157}
+      - - {x: 89, y: 168}
+        - {x: 74, y: 154}
+        - {x: 74, y: 121}
+        - {x: 75, y: 120}
+        - {x: 112, y: 120}
+        - {x: 112, y: 167}
+        - {x: 109, y: 168}
+      - - {x: -174, y: 145}
+        - {x: -173, y: 143}
+        - {x: -153, y: 137}
+        - {x: -145, y: 137}
+        - {x: -145, y: 145}
+        - {x: -147, y: 154}
+        - {x: -166, y: 154}
+        - {x: -174, y: 150}
+      - - {x: -213, y: 183}
+        - {x: -221, y: 183}
+        - {x: -231, y: 179}
+        - {x: -231, y: 174}
+        - {x: -224, y: 169}
+        - {x: -205, y: 160}
+        - {x: -201, y: 160}
+        - {x: -201, y: 163}
+        - {x: -205, y: 176}
+    - name: rockAtk00
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 764
+        width: 82
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 0}
+        - {x: 19, y: 0}
+        - {x: 25, y: 11}
+        - {x: 41, y: 44}
+        - {x: 41, y: 61}
+        - {x: 13, y: 81}
+        - {x: -10, y: 81}
+        - {x: -31, y: 49}
+        - {x: -40, y: 8}
+        - {x: -40, y: 0}
+        - {x: -18, y: 0}
+        - {x: -14, y: 3}
+        - {x: -13, y: 6}
+        - {x: -5, y: 2}
+    - name: rockAtk01
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 848
+        width: 82
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 0}
+        - {x: 19, y: 0}
+        - {x: 25, y: 11}
+        - {x: 41, y: 44}
+        - {x: 41, y: 61}
+        - {x: 13, y: 81}
+        - {x: -10, y: 81}
+        - {x: -31, y: 49}
+        - {x: -40, y: 8}
+        - {x: -40, y: 0}
+        - {x: -18, y: 0}
+        - {x: -14, y: 3}
+        - {x: -13, y: 6}
+        - {x: -5, y: 2}
+    - name: rockAtk02
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 932
+        width: 82
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 0}
+        - {x: 19, y: 0}
+        - {x: 25, y: 11}
+        - {x: 41, y: 44}
+        - {x: 41, y: 61}
+        - {x: 13, y: 81}
+        - {x: -10, y: 81}
+        - {x: -31, y: 49}
+        - {x: -40, y: 8}
+        - {x: -40, y: 0}
+        - {x: -18, y: 0}
+        - {x: -14, y: 3}
+        - {x: -13, y: 6}
+        - {x: -5, y: 2}
+    - name: rockHurt00
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 720
+        width: 96
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48, y: 88}
+        - {x: -48, y: 24}
+        - {x: -39, y: 24}
+        - {x: -43, y: 8}
+        - {x: -43, y: 2}
+        - {x: 33, y: 2}
+        - {x: 46, y: 7}
+        - {x: 46, y: 100}
+        - {x: -38, y: 100}
+        - {x: -46, y: 99}
+    - name: rockHurt01
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 618
+        width: 96
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33, y: 100}
+        - {x: 20, y: 86}
+        - {x: 16, y: 100}
+        - {x: -48, y: 100}
+        - {x: -48, y: 65}
+        - {x: -37, y: 64}
+        - {x: -32, y: 64}
+        - {x: -30, y: 66}
+        - {x: -48, y: 45}
+        - {x: -48, y: 0}
+        - {x: 48, y: 0}
+        - {x: 48, y: 96}
+        - {x: 41, y: 100}
+      - - {x: 48, y: 31}
+        - {x: 43, y: 34}
+        - {x: 20, y: 34}
+        - {x: 20, y: 11}
+        - {x: 22, y: 8}
+        - {x: 31, y: 2}
+        - {x: 34, y: 1}
+        - {x: 36, y: 1}
+        - {x: 38, y: 3}
+        - {x: 48, y: 18}
+      - - {x: -42, y: 64}
+        - {x: -48, y: 62}
+        - {x: -48, y: 52}
+        - {x: -42, y: 50}
+        - {x: -31, y: 50}
+        - {x: -28, y: 57}
+        - {x: -28, y: 64}
+      - - {x: 16, y: 100}
+        - {x: 14, y: 97}
+        - {x: 12, y: 95}
+        - {x: 12, y: 88}
+        - {x: 13, y: 86}
+        - {x: 19, y: 86}
+        - {x: 22, y: 91}
+        - {x: 24, y: 100}
+    - name: rockHurt02
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 720
+        width: 96
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 100}
+        - {x: -22, y: 100}
+        - {x: -21, y: 95}
+        - {x: -21, y: 93}
+        - {x: -27, y: 86}
+        - {x: -27, y: 80}
+        - {x: -29, y: 87}
+        - {x: -26, y: 88}
+        - {x: -24, y: 90}
+        - {x: -23, y: 93}
+        - {x: -28, y: 100}
+        - {x: -48, y: 100}
+        - {x: -48, y: 67}
+        - {x: -41, y: 64}
+        - {x: -32, y: 64}
+        - {x: -48, y: 49}
+        - {x: -48, y: 16}
+        - {x: -41, y: 0}
+        - {x: 12, y: 0}
+        - {x: 26, y: 30}
+        - {x: 26, y: 70}
+      - - {x: 13, y: 15}
+        - {x: 12, y: 12}
+        - {x: 12, y: 5}
+        - {x: 17, y: 0}
+        - {x: 23, y: 0}
+        - {x: 22, y: 10}
+        - {x: 18, y: 15}
+      - - {x: 48, y: 31}
+        - {x: 43, y: 34}
+        - {x: 20, y: 34}
+        - {x: 20, y: 11}
+        - {x: 22, y: 8}
+        - {x: 31, y: 2}
+        - {x: 34, y: 1}
+        - {x: 36, y: 1}
+        - {x: 38, y: 3}
+        - {x: 48, y: 18}
+      - - {x: 30, y: 45}
+        - {x: 27, y: 44}
+        - {x: 27, y: 37}
+        - {x: 29, y: 35}
+        - {x: 42, y: 34}
+        - {x: 48, y: 34}
+        - {x: 48, y: 44}
+        - {x: 47, y: 45}
+      - - {x: -42, y: 64}
+        - {x: -48, y: 62}
+        - {x: -48, y: 52}
+        - {x: -42, y: 50}
+        - {x: -31, y: 50}
+        - {x: -28, y: 57}
+        - {x: -28, y: 64}
+      - - {x: 24, y: 100}
+        - {x: 21, y: 93}
+        - {x: 21, y: 55}
+        - {x: 26, y: 50}
+        - {x: 43, y: 50}
+        - {x: 48, y: 51}
+        - {x: 48, y: 100}
+      - - {x: 16, y: 100}
+        - {x: 14, y: 97}
+        - {x: 12, y: 95}
+        - {x: 12, y: 88}
+        - {x: 13, y: 86}
+        - {x: 19, y: 86}
+        - {x: 22, y: 91}
+        - {x: 24, y: 100}
+      - - {x: 0, y: 100}
+        - {x: -1, y: 95}
+        - {x: 0, y: 91}
+        - {x: 3, y: 88}
+        - {x: 5, y: 88}
+        - {x: 8, y: 91}
+        - {x: 8, y: 100}
+    - name: rockHurt03
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 182
+        width: 56
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 88}
+        - {x: -28, y: 0}
+        - {x: 27, y: 0}
+        - {x: 27, y: 81}
+        - {x: 16, y: 88}
+    - name: rockHurt04
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 272
+        width: 56
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 88}
+        - {x: -28, y: 85}
+        - {x: -28, y: 0}
+        - {x: 27, y: 0}
+        - {x: 27, y: 88}
+    - name: rockHurt05
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 362
+        width: 56
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: 88}
+        - {x: -20, y: 88}
+        - {x: -28, y: 84}
+        - {x: -28, y: 2}
+        - {x: -25, y: 0}
+        - {x: 21, y: 0}
+        - {x: 26, y: 3}
+        - {x: 26, y: 66}
+    - name: rockHurt06
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 78
+        width: 62
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24, y: 67}
+        - {x: 10, y: 85}
+        - {x: 5, y: 88}
+        - {x: -11, y: 88}
+        - {x: -26, y: 84}
+        - {x: -31, y: 79}
+        - {x: -31, y: 0}
+        - {x: 21, y: 0}
+        - {x: 31, y: 19}
+        - {x: 31, y: 51}
+      - - {x: -7, y: 3}
+        - {x: -6, y: 0}
+        - {x: -3, y: 0}
+        - {x: -1, y: 2}
+        - {x: -2, y: 5}
+        - {x: -5, y: 5}
+    - name: rockHurt07
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 569
+        width: 56
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 88}
+        - {x: -28, y: 0}
+        - {x: 27, y: 0}
+        - {x: 27, y: 81}
+        - {x: 16, y: 88}
+    - name: rockHurt08
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 77
+        width: 56
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: 88}
+        - {x: -20, y: 88}
+        - {x: -28, y: 84}
+        - {x: -28, y: 2}
+        - {x: -25, y: 0}
+        - {x: 21, y: 0}
+        - {x: 26, y: 3}
+        - {x: 26, y: 66}
+    - name: rockHurt09
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 164
+        width: 56
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28, y: 15}
+        - {x: 28, y: 54}
+        - {x: 14, y: 88}
+        - {x: -28, y: 88}
+        - {x: -28, y: 57}
+        - {x: -21, y: 51}
+        - {x: -17, y: 51}
+        - {x: -22, y: 50}
+        - {x: -28, y: 37}
+        - {x: -28, y: 0}
+        - {x: 19, y: 0}
+    - name: rockHurt10
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 254
+        width: 56
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 88}
+        - {x: -28, y: 0}
+        - {x: 27, y: 0}
+        - {x: 27, y: 81}
+        - {x: 16, y: 88}
+    - name: rockHurt11
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 254
+        width: 56
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: 88}
+        - {x: -20, y: 88}
+        - {x: -28, y: 84}
+        - {x: -28, y: 2}
+        - {x: -25, y: 0}
+        - {x: 21, y: 0}
+        - {x: 26, y: 3}
+        - {x: 26, y: 66}
+    - name: rockHurt12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3
+        width: 56
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: 88}
+        - {x: -20, y: 88}
+        - {x: -28, y: 84}
+        - {x: -28, y: 2}
+        - {x: -25, y: 0}
+        - {x: 21, y: 0}
+        - {x: 26, y: 3}
+        - {x: 26, y: 66}
+    - name: rockHurt13
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 167
+        width: 62
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24, y: 67}
+        - {x: 10, y: 85}
+        - {x: 5, y: 88}
+        - {x: -11, y: 88}
+        - {x: -26, y: 84}
+        - {x: -31, y: 79}
+        - {x: -31, y: 0}
+        - {x: 21, y: 0}
+        - {x: 31, y: 19}
+        - {x: 31, y: 51}
+      - - {x: -7, y: 3}
+        - {x: -6, y: 0}
+        - {x: -3, y: 0}
+        - {x: -1, y: 2}
+        - {x: -2, y: 5}
+        - {x: -5, y: 5}
+    - name: rockHurt14
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 370
+        width: 62
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 88}
+        - {x: -27, y: 88}
+        - {x: -31, y: 80}
+        - {x: -31, y: 0}
+        - {x: 23, y: 0}
+        - {x: 31, y: 13}
+        - {x: 31, y: 51}
+        - {x: 16, y: 73}
+      - - {x: -7, y: 3}
+        - {x: -6, y: 0}
+        - {x: -3, y: 0}
+        - {x: -1, y: 2}
+        - {x: -2, y: 5}
+        - {x: -5, y: 5}
+    - name: rockHurt15
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 113
+        width: 62
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 31}
+        - {x: -3, y: 22}
+        - {x: -5, y: 14}
+        - {x: -5, y: 8}
+        - {x: -4, y: 5}
+        - {x: 0, y: 2}
+        - {x: 4, y: 0}
+        - {x: 30, y: 0}
+        - {x: 31, y: 2}
+        - {x: 31, y: 49}
+        - {x: 17, y: 75}
+        - {x: 8, y: 90}
+        - {x: -23, y: 90}
+        - {x: -28, y: 31}
+        - {x: -31, y: 15}
+        - {x: -31, y: 0}
+        - {x: -6, y: 0}
+        - {x: -5, y: 5}
+        - {x: -5, y: 16}
+        - {x: -3, y: 27}
+    - name: rockJumpAtk
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 415
+        width: 68
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34, y: 108}
+        - {x: -34, y: 9}
+        - {x: -33, y: 0}
+        - {x: 0, y: 0}
+        - {x: 34, y: 48}
+        - {x: 34, y: 78}
+        - {x: 6, y: 108}
+      - - {x: -1, y: 102}
+        - {x: 1, y: 100}
+        - {x: 4, y: 101}
+        - {x: 5, y: 105}
+        - {x: 2, y: 107}
+        - {x: -1, y: 104}
+    - name: rockJumpDown00
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 309
+        width: 58
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 100}
+        - {x: -29, y: 96}
+        - {x: -29, y: 85}
+        - {x: -24, y: 75}
+        - {x: -22, y: 20}
+        - {x: -19, y: 4}
+        - {x: -17, y: 0}
+        - {x: 0, y: 0}
+        - {x: 29, y: 12}
+        - {x: 29, y: 88}
+        - {x: 27, y: 100}
+    - name: rockJumpDown01
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 205
+        width: 54
+        height: 106
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 106}
+        - {x: -27, y: 0}
+        - {x: 27, y: 0}
+        - {x: 27, y: 106}
+      - - {x: 3, y: 1}
+        - {x: 4, y: 0}
+        - {x: 8, y: 0}
+        - {x: 8, y: 3}
+        - {x: 6, y: 5}
+        - {x: 3, y: 4}
+      - - {x: -6, y: 101}
+        - {x: -3, y: 98}
+        - {x: 0, y: 99}
+        - {x: 0, y: 101}
+        - {x: -3, y: 104}
+        - {x: -5, y: 104}
+    - name: rockJumpDown02
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 93
+        width: 48
+        height: 110
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 110}
+        - {x: -24, y: 37}
+        - {x: -17, y: 0}
+        - {x: 5, y: 0}
+        - {x: 24, y: 28}
+        - {x: 24, y: 110}
+    - name: rockJumpUp00
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 28
+        width: 54
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27, y: 0}
+        - {x: 27, y: 80}
+        - {x: -12, y: 80}
+        - {x: -27, y: 70}
+        - {x: -27, y: 0}
+    - name: rockJumpUp01
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 13
+        width: 54
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 97}
+        - {x: -16, y: 97}
+        - {x: -27, y: 83}
+        - {x: -27, y: 2}
+        - {x: -26, y: 1}
+        - {x: -13, y: 1}
+        - {x: 8, y: 3}
+        - {x: 27, y: 24}
+        - {x: 27, y: 73}
+    - name: rockJumpUp02
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 113
+        width: 54
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27, y: 18}
+        - {x: 27, y: 86}
+        - {x: 9, y: 94}
+        - {x: -19, y: 94}
+        - {x: -27, y: 89}
+        - {x: -27, y: 87}
+        - {x: -25, y: 71}
+        - {x: -27, y: 59}
+        - {x: -27, y: 3}
+        - {x: -23, y: 0}
+        - {x: -8, y: 0}
+        - {x: -7, y: 1}
+        - {x: 12, y: 7}
+        - {x: 24, y: 10}
+    - name: rockJumpUp03
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 205
+        width: 56
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 101}
+        - {x: -28, y: 0}
+        - {x: -4, y: 0}
+        - {x: 22, y: 12}
+        - {x: 28, y: 13}
+        - {x: 28, y: 101}
+    - name: rockJumpUp04
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 313
+        width: 64
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 100}
+        - {x: -21, y: 100}
+        - {x: -32, y: 95}
+        - {x: -32, y: 24}
+        - {x: -31, y: 1}
+        - {x: -24, y: 0}
+        - {x: 3, y: 0}
+        - {x: 29, y: 6}
+        - {x: 32, y: 12}
+        - {x: 32, y: 72}
+    - name: rockLightEffect
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 525
+        width: 91
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 45.5, y: 69}
+        - {x: 44.5, y: 70}
+        - {x: 12.5, y: 91}
+        - {x: -16.5, y: 91}
+        - {x: -45.5, y: 76}
+        - {x: -45.5, y: 4}
+        - {x: 34.5, y: 4}
+        - {x: 35.5, y: 5}
+        - {x: 33.5, y: 19}
+        - {x: 45.5, y: 44}
+    - name: rockLine00
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 411
+        width: 16
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: rockLine01
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 427
+        width: 20
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: rockLine02
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 490
+        width: 32
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 80}
+        - {x: -9, y: 80}
+        - {x: -16, y: 72}
+        - {x: -16, y: 4}
+        - {x: -15, y: 0}
+        - {x: 7, y: 0}
+        - {x: 16, y: 10}
+        - {x: 16, y: 57}
+        - {x: 13, y: 72}
+    - name: rockLine03
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 11
+        width: 60
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 64}
+        - {x: -30, y: 44}
+        - {x: -30, y: 1}
+        - {x: -28, y: 0}
+        - {x: 27, y: 0}
+        - {x: 30, y: 6}
+        - {x: 30, y: 47}
+        - {x: 15, y: 64}
+    - name: rockShow00
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 735
+        width: 85
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: 85}
+        - {x: -42.5, y: 67}
+        - {x: -42.5, y: 14}
+        - {x: -32.5, y: 0}
+        - {x: 38.5, y: 0}
+        - {x: 42.5, y: 13}
+        - {x: 42.5, y: 78}
+        - {x: 27.5, y: 85}
+    - name: rockShow01
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 530
+        width: 72
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34, y: 76}
+        - {x: -26, y: 76}
+        - {x: -36, y: 54}
+        - {x: -36, y: 11}
+        - {x: -34, y: 0}
+        - {x: 36, y: 0}
+        - {x: 36, y: 69}
+    - name: rockShow02
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 10
+        width: 64
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 66}
+        - {x: -32, y: 19}
+        - {x: -32, y: 0}
+        - {x: 19, y: 0}
+        - {x: 32, y: 4}
+        - {x: 32, y: 65}
+        - {x: 30, y: 66}
+    - name: rockShow03
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 10
+        width: 64
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 66}
+        - {x: -32, y: 14}
+        - {x: -32, y: 0}
+        - {x: 22, y: 0}
+        - {x: 32, y: 4}
+        - {x: 32, y: 65}
+        - {x: 29, y: 66}
+    - name: rockShow04
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 209
+        width: 48
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 98}
+        - {x: -24, y: 20}
+        - {x: -21, y: 0}
+        - {x: 24, y: 0}
+        - {x: 24, y: 71}
+        - {x: 1, y: 98}
+    - name: rockShow05
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 282
+        width: 58
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 20}
+        - {x: 1, y: 20}
+        - {x: -2, y: 15}
+        - {x: -2, y: 1}
+        - {x: 0, y: 0}
+        - {x: 29, y: 0}
+        - {x: 29, y: 88}
+        - {x: -4, y: 88}
+        - {x: -25, y: 71}
+        - {x: -29, y: 36}
+        - {x: -29, y: 0}
+        - {x: -8, y: 0}
+        - {x: -5, y: 2}
+        - {x: -3, y: 4}
+        - {x: -2, y: 7}
+    - name: rockShow06
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 452
+        width: 70
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 76}
+        - {x: -33, y: 32}
+        - {x: -33, y: 0}
+        - {x: 32, y: 0}
+        - {x: 35, y: 1}
+        - {x: 35, y: 73}
+        - {x: 32, y: 76}
+    - name: rockStandby00
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 194
+        width: 64
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 82}
+        - {x: -32, y: 56}
+        - {x: -32, y: 0}
+        - {x: 32, y: 0}
+        - {x: 32, y: 77}
+        - {x: 29, y: 82}
+    - name: rockStandby01
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 194
+        width: 64
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 82}
+        - {x: -32, y: 56}
+        - {x: -32, y: 0}
+        - {x: 32, y: 0}
+        - {x: 32, y: 77}
+        - {x: 29, y: 82}
+    - name: rockStandby02
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 278
+        width: 64
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 82}
+        - {x: -32, y: 56}
+        - {x: -32, y: 0}
+        - {x: 32, y: 0}
+        - {x: 32, y: 77}
+        - {x: 29, y: 82}
+    - name: rockStandby03
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 412
+        width: 64
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 82}
+        - {x: -32, y: 56}
+        - {x: -32, y: 0}
+        - {x: 32, y: 0}
+        - {x: 32, y: 77}
+        - {x: 29, y: 82}
+    - name: rockWalk00
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 28
+        width: 54
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 79}
+        - {x: -26, y: 32}
+        - {x: -26, y: 10}
+        - {x: -21, y: 0}
+        - {x: 27, y: 0}
+        - {x: 27, y: 79}
+    - name: rockWalk01
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 572
+        width: 46
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21, y: 79}
+        - {x: 1, y: 79}
+        - {x: -3, y: 78}
+        - {x: -23, y: 40}
+        - {x: -23, y: 9}
+        - {x: -20, y: 0}
+        - {x: 6, y: 0}
+        - {x: 23, y: 21}
+        - {x: 23, y: 78}
+    - name: rockWalk02
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 110
+        width: 62
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 79}
+        - {x: -31, y: 49}
+        - {x: -31, y: 1}
+        - {x: 21, y: 1}
+        - {x: 31, y: 12}
+        - {x: 31, y: 79}
+    - name: rockWalk03
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 578
+        width: 74
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 74}
+        - {x: -37, y: 52}
+        - {x: -37, y: 17}
+        - {x: 1, y: 0}
+        - {x: 37, y: 0}
+        - {x: 37, y: 60}
+        - {x: 22, y: 74}
+    - name: rockWalk04
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 496
+        width: 68
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 80}
+        - {x: 7, y: 79}
+        - {x: -34, y: 51}
+        - {x: -34, y: 25}
+        - {x: -10, y: 0}
+        - {x: 32, y: 0}
+        - {x: 34, y: 5}
+        - {x: 34, y: 80}
+    - name: rockWalk05
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 110
+        width: 58
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29, y: 80}
+        - {x: 21, y: 82}
+        - {x: 7, y: 82}
+        - {x: -6, y: 66}
+        - {x: -22, y: 57}
+        - {x: -29, y: 34}
+        - {x: -29, y: 7}
+        - {x: -6, y: 0}
+        - {x: 21, y: 0}
+        - {x: 21, y: 7}
+        - {x: 18, y: 10}
+        - {x: 29, y: 23}
+    - name: rockWalk06
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 94
+        width: 52
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: 48}
+        - {x: 17, y: 49}
+        - {x: 17, y: 48}
+        - {x: 18, y: 49}
+        - {x: 19, y: 48}
+        - {x: 23, y: 49}
+        - {x: 26, y: 56}
+        - {x: 26, y: 80}
+        - {x: 18, y: 85}
+        - {x: 5, y: 85}
+        - {x: 2, y: 84}
+        - {x: -26, y: 24}
+        - {x: -26, y: 14}
+        - {x: -16, y: 2}
+        - {x: -11, y: 0}
+        - {x: 14, y: 0}
+        - {x: 26, y: 25}
+        - {x: 26, y: 39}
+        - {x: 23, y: 43}
+      - - {x: 18, y: 23}
+        - {x: 21, y: 24}
+        - {x: 21, y: 27}
+        - {x: 18, y: 28}
+        - {x: 16, y: 26}
+    - name: rockWalk07
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 10
+        width: 52
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 81}
+        - {x: -14, y: 67}
+        - {x: -26, y: 37}
+        - {x: -26, y: 0}
+        - {x: 7, y: 0}
+        - {x: 26, y: 15}
+        - {x: 26, y: 80}
+        - {x: 25, y: 81}
+    - name: rockWalk08
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 422
+        width: 66
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 82}
+        - {x: -25, y: 43}
+        - {x: -33, y: 22}
+        - {x: -33, y: 2}
+        - {x: -32, y: 0}
+        - {x: 10, y: 0}
+        - {x: 33, y: 26}
+        - {x: 33, y: 82}
+    - name: rockWalk09
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 344
+        width: 78
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 76}
+        - {x: -39, y: 50}
+        - {x: -39, y: 21}
+        - {x: -25, y: 12}
+        - {x: 9, y: 0}
+        - {x: 32, y: 0}
+        - {x: 39, y: 10}
+        - {x: 39, y: 45}
+        - {x: 34, y: 76}
+      - - {x: 24, y: 19}
+        - {x: 27, y: 20}
+        - {x: 27, y: 23}
+        - {x: 24, y: 24}
+        - {x: 22, y: 22}
+      - - {x: 28, y: 22}
+        - {x: 31, y: 23}
+        - {x: 31, y: 26}
+        - {x: 28, y: 27}
+        - {x: 26, y: 25}
+      - - {x: 35, y: 57}
+        - {x: 37, y: 54}
+        - {x: 39, y: 55}
+        - {x: 39, y: 58}
+        - {x: 37, y: 59}
+    - name: rockWalk10
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 506
+        width: 80
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 37, y: 23}
+        - {x: 33, y: 73}
+        - {x: 29, y: 74}
+        - {x: -4, y: 74}
+        - {x: -40, y: 42}
+        - {x: -40, y: 23}
+        - {x: -19, y: 9}
+        - {x: 6, y: 0}
+        - {x: 33, y: 0}
+        - {x: 40, y: 13}
+        - {x: 40, y: 18}
+    - name: rockWalk11
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 344
+        width: 72
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 76}
+        - {x: -36, y: 62}
+        - {x: -36, y: 27}
+        - {x: -7, y: 0}
+        - {x: 36, y: 0}
+        - {x: 36, y: 76}
+    - name: rockWalk12
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 372
+        width: 66
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 78}
+        - {x: -33, y: 27}
+        - {x: -33, y: 7}
+        - {x: -28, y: 1}
+        - {x: -25, y: 0}
+        - {x: 33, y: 0}
+        - {x: 33, y: 69}
+        - {x: 24, y: 78}
+    - name: rockWalkAtk00
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 422
+        width: 80
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23, y: 82}
+        - {x: -16, y: 82}
+        - {x: -38, y: 38}
+        - {x: -38, y: 9}
+        - {x: -29, y: 2}
+        - {x: -24, y: 0}
+        - {x: 13, y: 0}
+        - {x: 28, y: 14}
+        - {x: 40, y: 39}
+        - {x: 40, y: 70}
+    - name: rockWalkAtk01
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 78
+        width: 72
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 84}
+        - {x: -36, y: 49}
+        - {x: -36, y: 6}
+        - {x: -34, y: 0}
+        - {x: -3, y: 0}
+        - {x: 36, y: 36}
+        - {x: 36, y: 68}
+        - {x: 17, y: 84}
+    - name: rockWalkAtk02
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 659
+        width: 88
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 83}
+        - {x: -44, y: 42}
+        - {x: -44, y: 4}
+        - {x: -43, y: 2}
+        - {x: -36, y: 0}
+        - {x: -31, y: 0}
+        - {x: -27, y: 5}
+        - {x: -27, y: 6}
+        - {x: -15, y: 0}
+        - {x: 14, y: 0}
+        - {x: 43, y: 41}
+        - {x: 43, y: 81}
+        - {x: 38, y: 83}
+    - name: rockWalkAtk03
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 744
+        width: 104
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 51, y: 39}
+        - {x: 51, y: 58}
+        - {x: 12, y: 76}
+        - {x: -4, y: 76}
+        - {x: -6, y: 75}
+        - {x: -35, y: 64}
+        - {x: -52, y: 44}
+        - {x: -52, y: 23}
+        - {x: -18, y: 0}
+        - {x: 25, y: 0}
+        - {x: 32, y: 7}
+        - {x: 34, y: 21}
+        - {x: 28, y: 24}
+        - {x: 25, y: 24}
+    - name: rockWalkAtk04
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 636
+        width: 93
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18.5, y: 82}
+        - {x: -9.5, y: 82}
+        - {x: -44.5, y: 49}
+        - {x: -44.5, y: 29}
+        - {x: -9.5, y: 0}
+        - {x: 17.5, y: 0}
+        - {x: 26.5, y: 3}
+        - {x: 45.5, y: 43}
+        - {x: 45.5, y: 67}
+        - {x: 21.5, y: 81}
+    - name: rockWalkAtk05
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 550
+        width: 81
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.5, y: 84}
+        - {x: -12.5, y: 84}
+        - {x: -19.5, y: 71}
+        - {x: -37.5, y: 30}
+        - {x: -37.5, y: 14}
+        - {x: -17.5, y: 0}
+        - {x: 28.5, y: 0}
+        - {x: 40.5, y: 18}
+        - {x: 40.5, y: 67}
+        - {x: 36.5, y: 74}
+    - name: rockWalkAtk06
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 460
+        width: 78
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: 41}
+        - {x: -39, y: 11}
+        - {x: -31, y: 0}
+        - {x: 2, y: 0}
+        - {x: 37, y: 30}
+        - {x: 37, y: 71}
+        - {x: 34, y: 75}
+        - {x: 16, y: 87}
+        - {x: -13, y: 87}
+        - {x: -28, y: 76}
+    - name: rockWalkAtk07
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 168
+        width: 76
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 83}
+        - {x: -4, y: 83}
+        - {x: -9, y: 81}
+        - {x: -38, y: 25}
+        - {x: -38, y: 2}
+        - {x: -34, y: 0}
+        - {x: -11, y: 0}
+        - {x: 30, y: 22}
+        - {x: 38, y: 43}
+        - {x: 38, y: 67}
+    - name: rockWalkAtk08
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 678
+        width: 84
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 84}
+        - {x: -42, y: 50}
+        - {x: -42, y: 1}
+        - {x: 16, y: 1}
+        - {x: 42, y: 44}
+        - {x: 42, y: 73}
+        - {x: 20, y: 84}
+      - - {x: 14, y: 7}
+        - {x: 15, y: 4}
+        - {x: 19, y: 4}
+        - {x: 21, y: 6}
+        - {x: 20, y: 9}
+        - {x: 16, y: 9}
+    - name: rockWalkAtk09
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 656
+        width: 86
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26, y: 21}
+        - {x: 34, y: 28}
+        - {x: 35, y: 31}
+        - {x: 43, y: 40}
+        - {x: 43, y: 55}
+        - {x: 22, y: 74}
+        - {x: 18, y: 76}
+        - {x: -14, y: 76}
+        - {x: -43, y: 56}
+        - {x: -43, y: 21}
+        - {x: -17, y: 0}
+        - {x: 33, y: 0}
+        - {x: 42, y: 13}
+        - {x: 39, y: 20}
+        - {x: 30, y: 25}
+        - {x: 28, y: 21}
+    - name: rockWalkAtk10
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 582
+        width: 86
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: 74}
+        - {x: -11, y: 74}
+        - {x: -43, y: 48}
+        - {x: -43, y: 20}
+        - {x: 5, y: 1}
+        - {x: 32, y: 1}
+        - {x: 42, y: 17}
+        - {x: 43, y: 22}
+        - {x: 43, y: 60}
+    - name: rockWalkAtk11
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 662
+        width: 88
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 77}
+        - {x: -42, y: 44}
+        - {x: -42, y: 19}
+        - {x: -26, y: 9}
+        - {x: -11, y: 0}
+        - {x: 37, y: 0}
+        - {x: 44, y: 15}
+        - {x: 44, y: 72}
+        - {x: 26, y: 77}
+    - name: rockWalkAtk12
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 741
+        width: 89
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 43.5, y: 59}
+        - {x: 27.5, y: 79}
+        - {x: -13.5, y: 79}
+        - {x: -41.5, y: 54}
+        - {x: -41.5, y: 10}
+        - {x: -21.5, y: 4}
+        - {x: -11.5, y: 9}
+        - {x: -7.5, y: 15}
+        - {x: -9.5, y: 10}
+        - {x: -6.5, y: 0}
+        - {x: 23.5, y: 0}
+        - {x: 20.5, y: 10}
+        - {x: 43.5, y: 39}
+    - name: rockWin00
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 608
+        width: 77
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27.5, y: 2}
+        - {x: 27.5, y: 21}
+        - {x: 22.5, y: 65}
+        - {x: 17.5, y: 68}
+        - {x: -11.5, y: 68}
+        - {x: -30.5, y: 38}
+        - {x: -30.5, y: 0}
+        - {x: -10.5, y: 0}
+        - {x: -10.5, y: 5}
+        - {x: 8.5, y: 0}
+        - {x: 26.5, y: 0}
+    - name: rockWin01
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 257
+        width: 77
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.5, y: 85}
+        - {x: -9.5, y: 85}
+        - {x: -14.5, y: 71}
+        - {x: -30.5, y: 8}
+        - {x: -30.5, y: 0}
+        - {x: 35.5, y: 0}
+        - {x: 35.5, y: 20}
+        - {x: 32.5, y: 57}
+    - name: rockWin02
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 21
+        width: 70
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 90}
+        - {x: -14, y: 90}
+        - {x: -24, y: 87}
+        - {x: -35, y: 65}
+        - {x: -35, y: 13}
+        - {x: -32, y: 0}
+        - {x: 17, y: 0}
+        - {x: 35, y: 5}
+        - {x: 35, y: 60}
+        - {x: 31, y: 65}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,27 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: Effect5Texture.png (664 x 964)
+# $TexturePacker:SmartUpdate:c943a27ac536f400813a34553241d414:28e0504b74a372151cad3fc4b0d9bea9:3535380e1e07a0eec14042bef4bf426f$
+#
+
+lineExplosionEffect00;2;942;51;20;0.5;0
+lineExplosionEffect01;55;923;71;39;0.5;0
+lineExplosionEffect02;244;904;114;58;0.5;0
+lineExplosionEffect03;128;904;114;58;0.5;0
+lineExplosionEffect04;360;864;143;98;0.5;0
+lineExplosionEffect05;505;837;140;125;0.5;0
+lineExplosionEffect06;470;421;86;414;0.5;0
+lineExplosionEffect07;111;77;125;414;0.5;0
+lineExplosionEffect08;468;5;142;414;0.5;0
+lineExplosionEffect09;558;421;104;414;0.5;0
+lineExplosionEffect10;2;98;107;414;0.5;0
+lineExplosionEffect11;353;33;113;414;0.5;0
+lineExplosionEffect12;238;75;113;414;0.5;0
+lineExplosionEffect13;354;449;114;413;0.5;0
+lineExplosionEffect14;238;491;114;411;0.5;0
+lineExplosionEffect15;121;493;115;409;0.5;0
+lineExplosionEffect16;2;514;117;407;0.5;0

@@ -1,0 +1,47 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: effect2Sheet.png (996 x 356)
+# $TexturePacker:SmartUpdate:808493c82c606ba2de532b500b7b61e2:1d6677b00d5371142ae5736d25b74a32:c9c4c6f1217de5706dc08455f146422b$
+#
+
+dustEffect00;284;46;72;12;0.5;0.5
+dustEffect01;459;78;92;16;0.5;0.5
+dustEffect02;666;230;130;21;0.5;0.5
+dustEffect03;520;222;144;22;0.5;0.5
+dustEffect04;2;2;156;24;0.5;0.5
+dustEffect05;390;46;164;27;0.5;0.5
+dustEffect06;674;91;172;30;0.5;0.5
+dustEffect07;649;47;172;33;0.5;0.5
+dustEffect08;160;3;180;39;0.5;0.5
+dustEffect09;798;216;184;41;0.5;0.5
+dustEffect10;536;3;188;41;0.5;0.5
+dustEffect11;342;3;192;41;0.5;0.5
+isaac_001;817;137;90;77;0.5;0.5
+isaac_002;725;137;90;77;0.5;0.5
+natural_001;917;58;77;77;0.5;0.5
+natural_002;917;137;77;77;0.5;0.5
+rockLightEffect;826;263;91;91;0.5;0.5
+superEffect00;649;82;23;39;0.5;0.5
+superEffect01;611;47;36;72;0.5;0.5
+superEffect02;390;75;67;138;0.5;0.5
+superEffect03;107;44;83;154;0.5;0.5
+superEffect04;192;45;90;153;0.5;0.5
+superEffect05;424;219;94;135;0.5;0.5
+superEffect06;459;96;103;121;0.5;0.5
+superEffect07;623;253;100;101;0.5;0.5
+superEffect08;823;6;92;83;0.5;0.5
+superEffect09;725;259;99;95;0.5;0.5
+superEffect10;520;246;101;108;0.5;0.5
+superEffect11;319;215;103;139;0.5;0.5
+superEffect12;284;60;104;143;0.5;0.5
+superEffect13;212;205;105;149;0.5;0.5
+superEffect14;105;200;105;154;0.5;0.5
+superEffect15;2;28;103;161;0.5;0.5
+superEffect16;2;191;101;163;0.5;0.5
+superEffect17;644;123;79;97;0.5;0.5
+superEffect18;564;121;78;99;0.5;0.5
+warningEffect;556;47;53;47;0.5;0.5
